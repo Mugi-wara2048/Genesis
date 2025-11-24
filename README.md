@@ -1,2 +1,1 @@
-# Genesis
-First BASE
+# Genesis BASE
