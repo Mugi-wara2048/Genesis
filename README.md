@@ -1,4 +1,4 @@
-# Genesis on BASE
+# Genesis on BASE network
 Base is for Solana.
 Base is for Ethereum.
 Base is for Polygon.
