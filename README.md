@@ -15,4 +15,3 @@ Base is for Fantom.
 Base is for Mantle.
 
 Base is for every chain.
-Base is for everyone.
