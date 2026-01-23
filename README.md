@@ -12,6 +12,6 @@ Base is for Aptos.
 Base is for NEAR.
 Base is for Sui.
 Base is for Fantom.
-Base is for Mantle.
+
 
 
